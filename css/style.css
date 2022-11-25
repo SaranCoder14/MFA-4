@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@300&family=Outfit:wght@300&family=Patrick+Hand+SC&family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@300&family=Fraunces:opsz,wght@9..144,400;9..144,600&family=Outfit:wght@300&family=Patrick+Hand+SC&family=Raleway&display=swap');
+html{
+    background-color: black;
+}
+
+body{
+    margin-left:390px;
+    background-color:white;
+    width:600px;
+}
+.header1{
+    background-color:rgba(62,191,255,255);
+    display: flex;
+    justify-content:space-around;
+    height: 60px;
+}
+.header1 img{
+    width:100px;
+    height: 20px;
+}
+.header1 button{
+    height: 40px;
+    background-color: white;
+    border-radius: 30px;
+}
+.header2 img{
+
+    width: 600px;
+    height: 500px;
+    
+    
+}
+.header2{
+    background-color: rgba(62,191,255,255);
+}
+.egg img{
+
+    width:300px;
+    height: 270px;
+    margin-left: 95px;
+}
+.content1{
+    display: flex;
+}
+
+.content1 h3{
+    margin-left: 60px;
+    font-size: 20px;
+    margin-top: 30px;
+}
+.content1 p
+{
+    font-family: 'Assistant', sans-serif;
+    font-size: 8px;
+    margin-left: 60px;
+}
+.content1 h4{
+    font-family: 'Assistant', sans-serif;
+font-family: 'Fraunces', serif;
+margin-left: 60px;
+font-size: 13px;
+ text-decoration: underline yellow;
+}
+.content2{
+    display: flex;
+}
+.content2 img{
+    width:300px;
+    height: 270px;
+    
+}
+
+.content2 h3{
+    margin-left: 60px;
+    font-size: 20px;
+    margin-top: 30px;
+}
+.content2 p
+{
+    font-family: 'Assistant', sans-serif;
+    font-size: 8px;
+    margin-left: 60px;
+}
+.content3{
+    display: flex;
+}
+.content3 img{
+    width:300px;
+    height: 270px;
+}
+.content2 h4{
+    font-family: 'Assistant', sans-serif;
+font-family: 'Fraunces', serif;
+margin-left: 60px;
+font-size: 13px;
+ text-decoration: underline rgba(255,113,99,255);
+}
+.content5{
+    display:flex
+}
+.content5 img{
+    width:150px;
+    height: 250px;
+}
+footer{
+    background-color: rgba(144,212,197,255);
+}
+footer img{
+    margin-left:235px;
+}
+.logo{
+    display: flex;
+
+}
+.end p{
+    display: flex;
+}
